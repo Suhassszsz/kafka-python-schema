@@ -6,9 +6,9 @@ It covers producers, consumers, schema evolution, and compatibility modes.
   
 │── avro_schemas/
 
-│   ├── payment_v1.avsc   
+   ├── payment_v1.avsc   
 
-│   └── payment_v2.avsc         
+   └── payment_v2.avsc         
 
 │── producer_v1.py       
 
