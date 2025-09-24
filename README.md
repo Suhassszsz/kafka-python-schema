@@ -9,7 +9,7 @@ It covers producers, consumers, schema evolution, and compatibility modes.
 │   ├── payment_v1.avsc   
 
 │   └── payment_v2.avsc         
-│
+
 │── producer_v1.py       
 
 │── producer_v2.py    
@@ -29,7 +29,7 @@ It covers producers, consumers, schema evolution, and compatibility modes.
 
 Make sure Docker and Docker Compose are installed. Then run:
 
-docker-compose up -d
+- docker-compose up -d
 
 
 This starts:
